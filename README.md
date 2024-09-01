@@ -24,3 +24,4 @@ flutter build linux
 # build the AppImage
 appimage-builder --skip-test
 ```
+
